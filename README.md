@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Julian 👋
+
+I am an aspiring full-stack web developer and software engineer.
+I'm currently on a boot camp to learn the skills needed to take my first steps into working in the world of tech!
 
 <!--
 **Jngo93/Jngo93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
