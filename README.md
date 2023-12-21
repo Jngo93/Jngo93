@@ -3,8 +3,8 @@
 I am an aspiring full-stack web developer and software engineer.
 I'm currently on a boot camp to learn the skills needed to take my first steps into working in the world of tech!
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Selamkd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- [![Codewars Badge](https://www.codewars.com/users/Selamkd/badges/large)](https://www.codewars.com/users/Selamkd)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jngo93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Codewars Badge](https://www.codewars.com/users/Selamkd/badges/large)](https://www.codewars.com/users/Jngo93)
 <br>
 <br>
 Languages and tools I use :female_fairy::skin-tone-5:
